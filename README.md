@@ -1,1 +1,1 @@
-This app shows the datarate of each sensor reporting.
+This app shows the report data rate of each sensor.
